@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "image": "https://pixabay.com/images/id-1838658/",
+      "name": "sadf",
+      "price": "12.3",
+      "id": 8
+    },
+    {
+      "image": "https://pixabay.com/images/id-1838658/",
+      "name": "sadf",
+      "price": "12.3",
+      "id": 9
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/11/19/11/11/hands-1838658_960_720.jpg",
+      "name": "ccd",
+      "price": "12.7",
+      "id": 10
     }
   ]
 }
